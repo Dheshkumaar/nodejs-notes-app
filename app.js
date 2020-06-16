@@ -63,8 +63,6 @@ yargs.command({
     }
 })
 
-
-
 //add remove list read
 yargs.parse()
 //console.log(yargs.argv)
